@@ -1,3 +1,5 @@
+import { Footer } from "./components/footer";
+
 function App() {
   return (
     <>
@@ -8,6 +10,8 @@ function App() {
         magnam mollitia esse quidem dolorem modi eveniet ut, sunt cumque impedit
         non, nobis molestias ullam debitis quis nesciunt aut recusandae.
       </p>
+
+      <Footer />
     </>
   );
 }
